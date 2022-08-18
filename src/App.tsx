@@ -3,10 +3,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
+        <h1>
+          React app for testing of my daily leetcoding
+        </h1>
+        <p>Stack: React, Typescript, TailwindCSS</p>
     </div>
   );
 }
